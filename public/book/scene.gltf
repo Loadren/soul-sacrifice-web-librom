@@ -1,0 +1,464 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 16892,
+      "max": [
+        0.30444198846817017,
+        0.15992200374603271,
+        0.49230900406837463
+      ],
+      "min": [
+        -0.3211120069026947,
+        -0.19446100294589996,
+        0.15590900182724
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 202704,
+      "componentType": 5126,
+      "count": 16892,
+      "max": [
+        0.999980092048645,
+        0.9998863935470581,
+        0.9999666213989258
+      ],
+      "min": [
+        -0.9996975064277649,
+        -0.998430073261261,
+        -0.9991212487220764
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 16892,
+      "max": [
+        0.9999802112579346,
+        0.9971850514411926,
+        0.9997921586036682,
+        1.0
+      ],
+      "min": [
+        -0.9999987483024597,
+        -0.9980406165122986,
+        -0.9643479585647583,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 16892,
+      "max": [
+        0.9665949940681458,
+        0.9718949794769287
+      ],
+      "min": [
+        0.029325999319553375,
+        0.09784100204706192
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 96174,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 405408,
+      "componentType": 5126,
+      "count": 676,
+      "max": [
+        0.3232699930667877,
+        0.008899999782443047,
+        0.11984899640083313
+      ],
+      "min": [
+        -0.3232699930667877,
+        -0.010195000097155571,
+        0.11965499818325043
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 413520,
+      "componentType": 5126,
+      "count": 676,
+      "max": [
+        0.4303065538406372,
+        0.4281060993671417,
+        -0.9010801315307617
+      ],
+      "min": [
+        -0.4303065538406372,
+        -0.4281060993671417,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 270272,
+      "componentType": 5126,
+      "count": 676,
+      "max": [
+        0.9953218102455139,
+        0.9991998672485352,
+        0.2121494710445404,
+        1.0
+      ],
+      "min": [
+        -0.9999858736991882,
+        -0.9993888735771179,
+        -0.22284597158432007,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 135136,
+      "componentType": 5126,
+      "count": 676,
+      "max": [
+        0.9685450196266174,
+        0.018250999972224236
+      ],
+      "min": [
+        0.8856120109558105,
+        0.015495999716222286
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 384696,
+      "componentType": 5125,
+      "count": 1152,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 421632,
+      "componentType": 5126,
+      "count": 19105,
+      "max": [
+        0.36160901188850403,
+        0.23375700414180756,
+        0.396573007106781
+      ],
+      "min": [
+        -0.36160901188850403,
+        -0.23699000477790833,
+        -0.00020500000391621143
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 650892,
+      "componentType": 5126,
+      "count": 19105,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 281088,
+      "componentType": 5126,
+      "count": 19105,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 140544,
+      "componentType": 5126,
+      "count": 19105,
+      "max": [
+        0.9842479825019836,
+        0.9893789887428284
+      ],
+      "min": [
+        0.010621000081300735,
+        0.010621000081300735
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 389304,
+      "componentType": 5125,
+      "count": 105138,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "SM5 by Heledahn (https://sketchfab.com/heledahn)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/old-book-in-bookrest-62bb5e83cf3e407097f771342555e0d2",
+      "title": "Old Book In Bookrest"
+    },
+    "generator": "Sketchfab-13.31.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 809856,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 293384,
+      "byteOffset": 809856,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 880152,
+      "byteOffset": 1103240,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 586768,
+      "byteOffset": 1983392,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2570160,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/SMS_Old_Book_Material_baseColor.png"
+    },
+    {
+      "uri": "textures/SMS_Old_Book_Material_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/SMS_Old_Book_Material_normal.png"
+    },
+    {
+      "uri": "textures/SMS_Old_Bookrest_Material_baseColor.png"
+    },
+    {
+      "uri": "textures/SMS_Old_Bookrest_Material_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/SMS_Old_Bookrest_Material_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "SMS_Old_Book_Material",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "SMS_Old_Bookrest_Material",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        5.039247989654541,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.1189378289821008e-15,
+        -5.039247989654541,
+        0.0,
+        0.0,
+        5.039247989654541,
+        1.1189378289821008e-15,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "SMS Open Old Book in Bookrest.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}

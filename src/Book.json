@@ -1,0 +1,236 @@
+{
+    "pages": [
+        {
+            "texts": [
+                {
+                    "text": "\"Nous parlons à travers les veines du cosmos, à travers l'éther vibrant qui unit toutes choses.",
+                    "sound": "/sound/page_1/voice_1.mp3",
+                    "order": 0,
+                    "from": "top",
+                    "style": {
+                        "gridColumn": "span 6 / span 6",
+                        "gridColumnStart": "1",
+                        "gridRowStart": "1"
+                    }
+                },
+                {
+                    "text": "Nous avons vu ton cœur, pur, ta foi inébranlable, ta volonté de pierre. Et nous te saluons.\"",
+                    "sound": "/sound/page_1/voice_2.mp3",
+                    "order": 1,
+                    "from": "bottom",
+                    "style": {
+                        "gridColumn": "span 6 / span 6",
+                        "gridColumnStart": "2",
+                        "gridRowStart": "3"
+                    },
+                    "coloredLetters": [
+                        {
+                            "from": 83,
+                            "to": 91,
+                            "color": "#8B0000"
+                        }
+                    ]
+                },
+                {
+                    "text": "\"Tu as lu notre Livre, tu as appris nos mots, tu as tracé nos symboles avec une main sûre et dévouée.",
+                    "sound": "/sound/page_1/voice_3.mp3",
+                    "order": 2,
+                    "from": "bottom",
+                    "style": {
+                        "gridColumn": "span 6 / span 6",
+                        "gridColumnStart": "2",
+                        "gridRowStart": "9"
+                    },
+                    "coloredLetters": [
+                        {
+                            "from": 16,
+                            "to": 20,
+                            "color": "#866121"
+                        },
+                        {
+                            "from": 0,
+                            "to": 150,
+                            "color": "#fff"
+                        }
+                    ]
+                },
+                {
+                    "text": "Tu cherches la vérité, et tu as bien raison. Car la vérité libère, Céleste, elle libère de la peur, de l'ignorance et du mensonge.\"",
+                    "sound": "/sound/page_1/voice_4.mp3",
+                    "order": 3,
+                    "from": "bottom",
+                    "style": {
+                        "gridColumn": "span 6 / span 6",
+                        "gridColumnStart": "2",
+                        "gridRowStart": "11"
+                    },
+                    "coloredLetters": [
+                        {
+                            "from": 121,
+                            "to": 128,
+                            "color": "#432373"
+                        },
+                        {
+                            "from": 0,
+                            "to": 130,
+                            "color": "#fff"
+                        }
+                    ]
+                }
+            ],
+            "arts": [
+                {
+                    "path": "/sound/page_1/celeste6.png",
+                    "sound": "/sound/page_1/artwork.mp3",
+                    "order": 2,
+                    "style": {
+                        "margin": "auto",
+                        "padding": "3rem",
+                        "gridColumn": "span 8 / span 8",
+                        "gridColumnStart": "1",
+                        "gridRowStart": "5"
+                    }
+                }
+            ]
+        },
+        {
+            "texts": [
+                {
+                    "text": "\"Et pourtant, Céleste, ta quête de vérité t'a été refusée. Tu vis dans un monde de mensonges, d'omissions et de demi-vérités.",
+                    "sound": "/sound/page_1/voice_5.mp3",
+                    "order": 4,
+                    "from": "top",
+                    "style": {
+                        "gridColumn": "span 6 / span 6",
+                        "gridColumnStart": "2",
+                        "gridRowStart": "1"
+                    }
+                },
+                {
+                    "text": "Les Ascendants, ceux qui prétendent détenir la sagesse, te cachent la vraie nature de l'Essence, la vraie nature de notre Création.\"",
+                    "sound": "/sound/page_1/voice_6.mp3",
+                    "order": 5,
+                    "from": "bottom",
+                    "style": {
+                        "gridColumn": "span 6 / span 6",
+                        "gridColumnStart": "1",
+                        "gridRowStart": "3"
+                    },
+                    "coloredLetters": [
+                        {
+                            "from": 4,
+                            "to": 13,
+                            "color": "#8B0000"
+                        }
+                    ]
+                },
+                {
+                    "text": "\"Ces barrières autour de ton monde, Céleste, elles n'ont pas été construites pour te protéger, mais pour te maintenir enfermée, ignorant la vérité.",
+                    "sound": "/sound/page_1/voice_7.mp3",
+                    "order": 6,
+                    "from": "bottom",
+                    "style": {
+                        "gridColumn": "span 6 / span 6",
+                        "gridColumnStart": "2",
+                        "gridRowStart": "5"
+                    },
+                    "coloredLetters": [
+                        {
+                            "from": 118,
+                            "to": 126,
+                            "color": "#666"
+                        }
+                    ]
+                },
+                {
+                    "text": "Mais il est temps maintenant de lever le voile. Le moment est venu pour toi de renverser ces murs d'illusions, de libérer ton monde de l'ignorance et de la manipulation.",
+                    "sound": "/sound/page_1/voice_8.mp3",
+                    "order": 7,
+                    "from": "bottom",
+                    "style": {
+                        "gridColumn": "span 6 / span 6",
+                        "gridColumnStart": "2",
+                        "gridRowStart": "8"
+                    },
+                    "coloredLetters": [
+                        {
+                            "from": 156,
+                            "to": 168,
+                            "color": "#C0AFE2"
+                        },
+                        {
+                            "from": 0,
+                            "to": 170,
+                            "color": "#fff"
+                        }
+                    ]
+                },
+                {
+                    "text": "Nous te demandons, Céleste, de continuer ta révolution, de briser ces chaînes de mensonges, et d'ouvrir ton monde à la vérité. Car c'est dans cette vérité que se trouve la véritable liberté, le véritable salut.\"",
+                    "sound": "/sound/page_1/voice_9.mp3",
+                    "order": 8,
+                    "from": "bottom",
+                    "style": {
+                        "gridColumn": "span 6 / span 6",
+                        "gridColumnStart": "2",
+                        "gridRowStart": "11"
+                    },
+                    "coloredLetters": [
+                        {
+                            "from": 194,
+                            "to": 210,
+                            "color": "#ffd700"
+                        },
+                        {
+                            "from": 0,
+                            "to": 220,
+                            "color": "#fff"
+                        }
+                    ]
+                }
+            ],
+            "arts": [
+                {
+                    "path": "/sound/page_1/premiers-etres.png",
+                    "sound": "/sound/page_1/artwork.mp3",
+                    "order": 7,
+                    "style": {
+                        "margin": "auto",
+                        "padding": "3rem",
+                        "gridColumn": "span 8 / span 8",
+                        "gridColumnStart": "1",
+                        "gridRowStart": "6"
+                    }
+                }
+            ]
+        },
+        {
+            "texts": [
+                {
+                    "text": "\"N'aie pas peur, Céleste. Nous sommes avec toi.",
+                    "sound": "/sound/page_1/voice_10.mp3",
+                    "order": 10,
+                    "from": "top",
+                    "style": {
+                        "gridColumn": "span 4 / span 4",
+                        "gridColumnStart": "3",
+                        "gridRowStart": "4"
+                    }
+                },
+                {
+                    "text": "Nous t'attendons de l'autre côté du voile.\"",
+                    "sound": "/sound/page_1/voice_11.mp3",
+                    "order": 11,
+                    "from": "bottom",
+                    "style": {
+                        "gridColumn": "span 4 / span 4",
+                        "gridColumnStart": "3",
+                        "gridRowStart": "8"
+                    }
+                }
+            ]
+        },
+        {
+        }
+    ]
+}

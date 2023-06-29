@@ -1,0 +1,8 @@
+Model Information:
+* title:	Old Book In Bookrest
+* source:	https://sketchfab.com/3d-models/old-book-in-bookrest-62bb5e83cf3e407097f771342555e0d2
+* author:	SM5 by Heledahn (https://sketchfab.com/heledahn)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
